@@ -1,0 +1,7 @@
+rec1;100
+green wood;1
+timber;1
+lumber;1
+--- 
+rec2;120
+green wood;10

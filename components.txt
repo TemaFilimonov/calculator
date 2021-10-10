@@ -1,0 +1,5 @@
+green wood;1;green wood
+timber;4;green wood
+lumber;2;timber
+lumber;4;aged wood
+aged wood;1;aged wood
